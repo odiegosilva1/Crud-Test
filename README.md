@@ -8,13 +8,13 @@ as seguintes funcionalidades:
 
 *CRUD (create, read, update e delete)
 
-● Dados de um usuário:
-○ Identificador
-○ Nome
-○ E-mail
-○ Senha
+** Dados de um usuário:
+* Identificador
+- Nome
+- E-mail
+- Senha
 
-● Dados de um recado:
-○ Identificador
-○ Título
-○ Descrição
+** Dados de um recado:
+- Identificador
+- Título
+- Descrição
