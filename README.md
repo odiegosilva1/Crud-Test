@@ -30,8 +30,8 @@ senha
 - Cada recado deve ser de um único
 usuário.
 
-** Além disso, prestem atenção nos seguintes
-pontos: **
+ Além disso, prestem atenção nos seguintes
+pontos: 
 
 1. Boas práticas
 2. Código limpo
