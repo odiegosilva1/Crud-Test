@@ -15,5 +15,3 @@ Além disso, prestem atenção nos seguintes pontos:
 1- Boas práticas
 2- Código limpo
 3- Utilização dos recursos da linguagem
-
-Repositório no Github para o back-end Link da aplicação no rodando no servidor.
