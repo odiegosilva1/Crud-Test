@@ -11,7 +11,7 @@ as seguintes funcionalidades:
 - O login deve ser feito com e-mail e senha
 - Cada recado deve ser de um único usuário.
 
-Além disso, prestem atenção nos seguintes pontos:
-1- Boas práticas
-2- Código limpo
-3- Utilização dos recursos da linguagem
+  Além disso, prestem atenção nos seguintes pontos:
+- Boas práticas
+- Código limpo
+- Utilização dos recursos da linguagem
